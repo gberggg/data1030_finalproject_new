@@ -1,0 +1,26 @@
+﻿sensor,name,lat,lon,node_id
+Sensor01,Myron J. Francis Elementary,41.84094,-71.36097,250
+Sensor02,Silver Lake Residence,41.810533,-71.447651,254
+Sensor03,Reservoir Ave Elementary,41.79157,-71.42788,258
+Sensor04,Anthony Carnevale Elementary,41.81678,-71.46458,261
+Sensor05,E-Cubed Academy Senior High,41.85417,-71.43444,264
+Sensor06,Rochambeau Library,41.84621,-71.39663,267
+Sensor07,Smith Hill Library,41.83549,-71.42217,270
+Sensor08,Alpert Medical School,41.81899,-71.40828,274
+Sensor09,Department of Public Works,41.79521,-71.39783,276
+Sensor10,Zuccolo Recreation Center,41.82287,-71.43067,251
+Sensor11,West End Community Center,41.80439,-71.42825,252
+Sensor12,United Way,41.81803,-71.44121,255
+Sensor13,Providence Housing Authority,41.81715,-71.455331,257
+Sensor14,CCRI - Liston Campus,41.80745,-71.41341,259
+Sensor15,Main St. Martial Arts,41.85521,-71.40042,262
+Sensor16,South Providence Library,41.80205,-71.41378,263
+Sensor17,Blackstone Residence,41.835491,-71.383413,266
+Sensor18,Brown-Fox Point Early Childhood Learning Center,41.82469,-71.39755,269
+Sensor19,Rock Spot Climbing Gym,41.81478,-71.42251,272
+Sensor20,Rockefeller Library,41.82551,-71.40528,253
+Sensor21,Child & Family Services,41.7909,-71.4031,256
+Sensor22,Mt. Pleasant Hardware,41.83168,-71.444401,260
+Sensor23,Rhode Island College,41.84212,-71.46526,265
+Sensor24,Providence College,41.84272,-71.43888,268
+Sensor25,Providence Emergency Management Agency,41.852240 ,-71.419830 ,271
